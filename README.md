@@ -4,7 +4,7 @@ Weak audio labels limitations for embeddings
 This repo is the implementation of:
  "Limitations of weak labels for embedding and tagging" accepted to ICASSP 2020.
  
-**Note: this is a work in progress, an extension is in progress** 
+**Note: this is still a work in progress, an extension will be done** 
 so if there are any bug or if you want details about something, do not hesitate.
  
 # Data
