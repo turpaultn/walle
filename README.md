@@ -1,4 +1,5 @@
 # walle
+Weak audio labels limitations for embeddings
 
 This repo is the implementation of:
  "Limitations of weak labels for embedding and tagging" accepted to ICASSP 2020.
@@ -18,4 +19,10 @@ The classifier is a simple CRNN train end to end.
 
 ## Protoypical network
 We train the prorotypical network by sampling some data of each class in each batch.
-Some of the data are used to make the "prototypes" and the other to do the 
+Some of the data are used to make the "prototypes" and the other to do the
+
+
+## Reference
+
+N. Turpault, R. Serizel, E. Vincent, "Limitations of weak labels for embedding and tagging", 
+in Proc. ICASSP 2020, Barcelona, Spain.
