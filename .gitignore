@@ -1,0 +1,8 @@
+.idea/
+*.pyc
+
+stored_data/
+synthetic/
+dataset/
+
+*.log
